@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.boxes {
+    @apply flex h-[180px] w-[180px] bg-slate-500 border-4 border-solid border-black cursor-pointer rounded-xl p-9
+  }
